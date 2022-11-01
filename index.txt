@@ -1,0 +1,151 @@
+Autofix - Auto Maintenance & Repair Service
+
+This is a vehicle repair html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = autofix home
+
+Home
+About
+Services
+Projects
+Contact
+
+Get a Quote
+<span class="material-symbols-rounded">arrow_forward</span>
+
+aria-label = toggle menu
+
+
+#---------- HERO ----------#
+
+We have talented engineers & mechanics
+
+Auto Maintenance & Repair Service
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse Excepteur sint occaecat cupidatat non proident.
+
+Our Services
+<span class="material-symbols-rounded">arrow_forward</span>
+
+alt = red motor vehicle
+
+
+
+#---------- SERVICE ----------#
+
+Our services
+We Provide Great Services For your Vehicle
+
+alt = Engine Repair
+Engine Repair
+Autem velaum iure reare aenderit rui in ea roluptate esse ruam moles
+
+Read more
+
+alt = Brake Repair
+Brake Repair
+
+alt = Tire Repair
+Tire Repair
+
+alt = Battery Repair
+Battery Repair
+
+alt = Red Car
+
+alt = Steering Repair
+Steering Repair
+
+View All Services
+<span class="material-symbols-rounded">arrow_forward</span>
+
+
+
+#---------- ABOUT ----------#
+
+alt = vehicle repire equipments
+
+About Us
+
+We’re Commited to Meet the quality
+
+Quis autem vel eum iure reprehenderit qui in ea volu velit esse quam nihil molestiae consequatur, vel illum eui dolorem eum fugiat ruo.
+
+Reprehenderit qui in ea volu velit esse quam nihil moe stiae consequatur, vel illum eui.
+
+8K+
+Happy Clients
+
+22+
+Instruments
+
+50+
+Years in market
+
+99%
+Projects completed
+
+
+
+#---------- WORK ----------#
+
+Our Work
+
+Latest projects we have done
+
+alt = Engine Repair
+Auto Repair
+Engine Repair
+
+<span class="material-symbols-rounded">arrow_forward</span>
+
+alt = Car Tyre change
+Car Tyre change
+
+alt = Battery Adjust
+Battery Adjust
+
+
+
+#---------- FOOTER ----------#
+
+alt = autofix home
+
+Rerum necessitatibus saepe eveniet aut et voluptates repudiandae sint et molestiae non recusandae.
+
+alt = facebook
+alt = instagram
+alt = twitter
+
+Opening Hours
+
+Monday – Saturday
+12.00 – 14.45
+
+Sunday – Thursday
+17.30 – 00.00
+
+Friday – Saturday
+
+Contact Info
+
+<span class="material-symbols-rounded">call</span>
++01 2 3456 7890
+
+<span class="material-symbols-rounded">mail</span>
+info@autofix.com
+
+<span class="material-symbols-rounded">location_on</span>
+21 King Street Melbourne, 3000, Australia
+
+alt = Shape
+
+Copyright 2022, codewithsadee All Rights Reserved.
+
+alt = Shape
+
+alt = Red Car
